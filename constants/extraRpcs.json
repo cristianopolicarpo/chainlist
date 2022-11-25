@@ -1568,7 +1568,10 @@
             "https://mainnet-rpc3.memescan.io/",
             "https://mainnet-rpc4.memescan.io/"
         ]
+    },
+    "49049": {
+        "rpcs": [
+            "https://rpc-floripa.wireshape.org/"
+        ]
     }
-    
-    
 }
